@@ -1,0 +1,15 @@
+{
+  "name": "angular-input-table",
+  "version": "0.1.0",
+  "main": "app/inputTable.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "git://github.com/angular/bower-angular.git#~1.2.4"
+  }
+}
